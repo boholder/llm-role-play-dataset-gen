@@ -1,0 +1,11 @@
+
+[project]
+name = "llm-role-play-dataset-gen"
+version = "0.0.1"
+description = "For creating a fine-tuning dataset to make LLM plays a role in chat"
+authors = [
+    {name = "boholder", email = "bottleholder@anche.no"},
+]
+dependencies = []
+requires-python = ">=3.11"
+license = {text = "MIT"}
